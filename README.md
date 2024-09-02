@@ -1,5 +1,5 @@
-# Preentrega-Trabajo-Final-
-Preentrega Trabajo Final  para Curso Data Science Coder House 
+#Análisis de préstamos bancarios-
+Preentrega Trabajo Final -para Curso Data Science Coder House 
 
 Análisis de préstamos bancarios
 Este proyecto de análisis de préstamos bancarios se centra en evaluar patrones y tendencias en la solicitud de crédito en un banco. A partir de los datos recopilados, se pueden obtener recomendaciones para mejorar la eficiencia en la asignación de recursos y optimizar la salud financiera del banco.
