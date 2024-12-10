@@ -54,6 +54,11 @@ Se creó una matriz de correlación que muestra las relaciones entre las variabl
 ### Gráficos de dispersión y histogramas
 Se crearon gráficos de dispersión y histogramas para visualizar las relaciones entre variables específicas, como el número de problemas de crédito y las quiebras, el crédito máximo abierto y el saldo actual de crédito, y el número de problemas de crédito y los gravámenes fiscales.
 
+### Correlaciones específicas
+- **Número de problemas de crédito vs Quiebras**: Se observó una correlación de 0.7, lo que indica una fuerte relación entre el número de problemas de crédito y las quiebras.
+- **Crédito máximo abierto vs Saldo actual de crédito**: Se observó una correlación de 0.7, lo que indica una fuerte relación entre el crédito máximo abierto y el saldo actual de crédito.
+- **Número de problemas de crédito vs Gravámenes Fiscales**: Se observó una correlación de 0.57, lo que indica una correlación moderada entre el número de problemas de crédito y los gravámenes fiscales.
+
 ## Recomendaciones
 Las tendencias en la toma de préstamos bancarios pueden ser evaluadas a través del análisis de datos, lo que permite identificar patrones y tendencias en la solicitud de crédito. El banco podría considerar el uso de técnicas de análisis de datos para identificar áreas problemáticas y oportunidades de crecimiento.
 
